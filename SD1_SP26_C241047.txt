@@ -1,0 +1,6 @@
+Course Code: CSE-2340
+Course Name: Software Development 1
+Name: Shaharia Abdullah Rakib
+ID: C241047
+Section: 3BM
+Semester: 5th
