@@ -1,3 +1,5 @@
+//  Take user’s name and greet them. Example, Input: “Your Name” and Output: Hello, “Your Name”!
+
 import java.util.*;
 
 public class greet {

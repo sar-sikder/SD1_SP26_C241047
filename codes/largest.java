@@ -1,3 +1,5 @@
+// Find the maximum of 3 numbers: Take 3 numbers from user input, print the largest.
+
 import java.util.*; 
 public class largest {
   public static void main(String[] args){
