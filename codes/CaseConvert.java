@@ -1,0 +1,15 @@
+//Convert a string to uppercase and lowercase
+
+import java.util.*;
+
+public class CaseConvert {
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+
+        System.out.print("Enter string: ");
+        String str = sc.nextLine();
+
+        System.out.println("Uppercase: " + str.toUpperCase());
+        System.out.println("Lowercase: " + str.toLowerCase());
+    }
+}
